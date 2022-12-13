@@ -6,6 +6,4 @@
 4. Установить cypress (в гитбаше): `npm install cypress --save-dev`
 6. Запускать автотесты командой `npm run test` 
 7. Все новые тесты нужно писать в папке /integration
-#cypress.js
-# cypress.js
-# cypress.js
+
