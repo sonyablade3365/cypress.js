@@ -1,4 +1,8 @@
-### Как запустить?
+### cypress_js
+
+Мини-набор автотестов фронтенда на cypress_js.
+
+Как запустить?
 
 1. Установить node.js: https://nodejs.org/en/download/
 2. Скачать проект из github и открыть в IDE (например, sublime): 
